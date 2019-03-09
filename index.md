@@ -6,10 +6,12 @@ We learn new things everyday. However to retain our learning, we need to revisit
 
 ### 19/03/09
 
-##### Thing 1
--  Learnings
--  Mistakes
+##### Created first learning log
+-  It's quite easy to host Jekyll site on GitHub
+-  Will append my learnings on two-days basis
 
-##### Thing 2
--  Learnings
--  Mistakes
+### 19/03/07
+
+##### Jekyll & GitHub Pages
+-  Read Rachel's blog
+-  Experimented with Jekyll theme for GitHub Pages
