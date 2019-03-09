@@ -6,9 +6,10 @@ We learn new things everyday. However to retain our learning, we need to revisit
 
 ### 19/03/09
 
-1.  Thing 1
-    -  Learnings
-    -  Mistakes
-1.  Thing 2
-    -  Learnings
-    -  Mistakes
+##### Thing 1
+-  Learnings
+-  Mistakes
+
+##### Thing 2
+-  Learnings
+-  Mistakes
