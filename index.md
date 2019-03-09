@@ -7,8 +7,10 @@ We learn new things everyday. However to retain our learning, we need to revisit
 ### 19/03/09
 
 ##### Created first learning log
--  It's quite easy to host Jekyll site on GitHub
--  Will append my learnings on two-days basis
+-  Hosted Jekyll site on GitHub
+##### Built basic API using Flask
+-  Motivation: Finding appropriate tech-stack for ongoing project
+-  Sources: [codementor.io](https://www.codementor.io/sagaragarwal94/building-a-basic-restful-api-in-python-58k02xsiq), [scotch.io](https://scotch.io/bar-talk/processing-incoming-request-data-in-flask)
 
 ### 19/03/07
 
